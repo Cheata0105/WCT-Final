@@ -87,8 +87,8 @@ export default function PaymentSubmission() {
       <aside className="w-72 bg-white dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col h-full hidden md:flex shrink-0">
         <div className="p-6 border-b border-slate-100 dark:border-slate-700/50">
           <div className="flex items-center gap-3">
-            <div className="flex items-center justify-center rounded-full size-12 shrink-0 border-2 border-slate-100 dark:border-slate-600 shadow-sm bg-primary">
-              <span className="material-symbols-outlined text-white text-2xl">school</span>
+            <div className="flex items-center justify-center rounded-full size-12 shrink-0 border-2 border-slate-100 dark:border-slate-600 shadow-sm bg-white">
+              <img src="/logo-rupp-1-1024x1024.png" alt="RUPP Logo" className="size-10 object-contain" />
             </div>
             <div className="flex flex-col overflow-hidden">
               <h1 className="text-slate-900 dark:text-white text-lg font-bold leading-tight truncate">

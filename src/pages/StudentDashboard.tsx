@@ -51,8 +51,8 @@ export default function StudentDashboard() {
           <div className="flex flex-col gap-6">
             {/* Logo */}
             <div className="flex items-center gap-3 px-2 py-2">
-              <div className="flex items-center justify-center rounded-full h-10 w-10 border-2 border-primary/20 bg-primary">
-                <span className="material-symbols-outlined text-white text-xl">school</span>
+              <div className="flex items-center justify-center rounded-full h-10 w-10 border-2 border-primary/20 bg-white">
+                <img src="/logo-rupp-1-1024x1024.png" alt="RUPP Logo" className="size-8 object-contain" />
               </div>
               <div className="flex flex-col">
                 <h1 className="text-slate-900 dark:text-white text-base font-bold leading-normal">

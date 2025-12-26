@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="max-w-[1200px] mx-auto flex flex-col md:flex-row justify-between gap-10">
         <div className="flex flex-col gap-4 max-w-[300px]">
           <div className="flex items-center gap-2 text-[#0d141b] dark:text-white">
-            <span className="material-symbols-outlined text-primary">school</span>
+            <img src="/logo-rupp-1-1024x1024.png" alt="RUPP Logo" className="size-6 object-contain" />
             <span className="font-bold text-lg">RUPP Payment</span>
           </div>
           <p className="text-sm text-gray-500 dark:text-gray-400">

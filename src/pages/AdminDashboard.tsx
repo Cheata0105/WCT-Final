@@ -49,8 +49,8 @@ export default function AdminDashboard() {
       {/* Sidebar */}
       <aside className="w-64 bg-surface-light dark:bg-surface-dark border-r border-border-light dark:border-border-dark flex flex-col hidden md:flex z-20">
         <div className="p-6 flex items-center gap-3">
-          <div className="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center text-primary">
-            <span className="material-symbols-outlined">school</span>
+          <div className="w-10 h-10 bg-white rounded-lg flex items-center justify-center border-2 border-primary/20">
+            <img src="/logo-rupp-1-1024x1024.png" alt="RUPP Logo" className="size-8 object-contain" />
           </div>
           <div>
             <h1 className="text-lg font-bold leading-none tracking-tight">RUPP Admin</h1>

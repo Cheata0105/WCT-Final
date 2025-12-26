@@ -36,7 +36,7 @@ export default function HomePage() {
               </div>
               <div className="relative aspect-video bg-slate-200 dark:bg-slate-800 rounded-2xl shadow-2xl overflow-hidden">
                 <img
-                  src="/rupp-campus.jpg"
+                  src="/photo_2025-12-26 18.24.22.jpeg"
                   alt="RUPP Campus"
                   className="w-full h-full object-cover"
                 />
@@ -96,26 +96,6 @@ export default function HomePage() {
                   Get notified instantly when your payment is approved. No more waiting in long
                   queues or unclear statuses.
                 </p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* Stats Section */}
-        <div className="w-full bg-white dark:bg-[#1a2632] py-16 md:py-20 px-4 md:px-10">
-          <div className="max-w-7xl mx-auto">
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
-              <div>
-                <div className="text-4xl md:text-5xl font-black text-primary mb-2">15,000+</div>
-                <p className="text-lg text-slate-600 dark:text-slate-300">Active Students</p>
-              </div>
-              <div>
-                <div className="text-4xl md:text-5xl font-black text-primary mb-2">$2.5M+</div>
-                <p className="text-lg text-slate-600 dark:text-slate-300">Payments Processed</p>
-              </div>
-              <div>
-                <div className="text-4xl md:text-5xl font-black text-primary mb-2">99.8%</div>
-                <p className="text-lg text-slate-600 dark:text-slate-300">Success Rate</p>
               </div>
             </div>
           </div>

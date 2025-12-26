@@ -62,15 +62,15 @@ export default function LoginPage() {
       <div className="hidden lg:flex lg:w-1/2 relative bg-slate-900 text-white overflow-hidden flex-col justify-between p-12">
         <div className="absolute inset-0 bg-slate-900"></div>
         <div className="absolute inset-0 flex items-center justify-center opacity-10">
-          <span className="material-symbols-outlined" style={{fontSize: '600px'}}>school</span>
+          <img src="/logo-rupp-1-1024x1024.png" alt="RUPP Logo" className="h-[600px] object-contain" />
         </div>
         <div className="absolute inset-0 bg-gradient-to-b from-slate-900/0 via-slate-900/50 to-slate-900/90"></div>
 
         <div className="relative z-10 flex items-center gap-3">
-          <div className="flex items-center justify-center rounded-full size-10 shrink-0 border-2 border-white/20 bg-primary">
-            <span className="material-symbols-outlined text-white text-xl">school</span>
+          <div className="flex items-center justify-center rounded-full size-10 shrink-0 border-2 border-white/20 bg-white">
+            <img src="/logo-rupp-1-1024x1024.png" alt="RUPP Logo" className="size-8 object-contain" />
           </div>
-          <span className="text-xl font-bold tracking-tight">RUPP Payment Portal</span>
+          <span className="text-xl font-bold tracking-tight">RUPP Payment</span>
         </div>
 
         <div className="relative z-10 max-w-lg mb-12">

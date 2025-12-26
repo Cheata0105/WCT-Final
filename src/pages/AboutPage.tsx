@@ -17,7 +17,7 @@ export default function AboutPage() {
           >
             <div className="flex flex-col gap-4 max-w-[800px]">
               <h1 className="text-white text-4xl md:text-5xl font-black leading-tight tracking-[-0.033em]">
-                About RUPP Payment Portal
+                About RUPP Payment
               </h1>
               <h2 className="text-white text-lg md:text-xl font-normal leading-relaxed opacity-90">
                 Streamlining tuition payments and record-keeping for the Royal University of Phnom
